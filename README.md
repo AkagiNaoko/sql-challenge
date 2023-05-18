@@ -34,6 +34,4 @@ Open the schema.sql file in your favorite SQL client, and execute it to create t
 
 Next, open the queries.sql file and execute the queries to interact with the database. 
 
-You can modify the queries or add new ones to meet your specific needs. 
-
 Refer to the ERD.png image for a visual representation of the database schema and to understand the relationships between the tables. 
